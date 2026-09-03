@@ -42,3 +42,4 @@ next-env.d.ts
 
 .work-tmp/*
 article-draft/*
+__pycache__
